@@ -30,7 +30,11 @@ const Sidebar: FC = () => {
       ))}
       <Adsense
         className="adsbygoogle"
-        style={{display: "block" }} data-ad-client="ca-pub-7029815294762181" data-ad-slot="9692865372" data-ad-format="auto" data-full-width-responsive="true"
+        style={{display: "block" }}
+        data-ad-client="ca-pub-7962287588031867"
+        data-ad-slot="4865807776"
+        data-ad-format="auto"
+        data-full-width-responsive="true"
       />
     </div>
   );
