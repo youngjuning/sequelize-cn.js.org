@@ -12,18 +12,18 @@ export default defineConfig({
       twitter: 'https://twitter.com/luozhu2021'
     },
     hd: { rules: [] },
-    footer: '<a href="/sitemap.xml" target="_blank">站点地图</a><br/>Made with ❤️ by <a href="https://github.com/zizhuspot" target="_blank">紫竹翻译计划</a>'
+    footer: 'Made with ❤️ by <a href="https://github.com/zizhuspot" target="_blank">紫竹翻译计划</a>'
   },
   theme: {
     '@c-primary': '#3b76c3',
   },
   publicPath: '/',
   analytics: {
-    // ga_v2: '',
+    ga_v2: 'G-S0RFCTHZLB',
   },
-  // sitemap: {
-    // hostname: 'https://sequelize-cn.js.org',
-  // },
+  sitemap: {
+    hostname: 'https://sequelize-cn.js.org',
+  },
   hash: true,
   exportStatic: {},
   headScripts: [
