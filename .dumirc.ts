@@ -7,6 +7,7 @@ export default defineConfig({
     name: 'Sequelize',
     logo: 'https://sequelize.org/img/logo.svg',
     prefersColor: { default: 'auto' },
+    editLink: "https://github.com/youngjuning/sequelize-cn.js.org/edit/main/{filename}",
     socialLinks: {
       github: 'https://github.com/youngjuning/sequelize-cn',
       twitter: 'https://twitter.com/luozhu2021'

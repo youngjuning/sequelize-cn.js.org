@@ -2,10 +2,6 @@
   "name": "sequelize-cn",
   "version": "0.0.1",
   "description": "Sequelize 是一个现代的 TypeScript 和 Node.js ORM，适用于 Oracle、Postgres、MySQL、MariaDB、SQLite和SQL Server 等多种数据库。它提供了可靠的事务支持、关系映射、快速和延迟加载、读取复制等功能。",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/youngjuning/sequelize-cn.js.org.git"
-  },
   "scripts": {
     "start": "npm run dev",
     "dev": "dumi dev",
