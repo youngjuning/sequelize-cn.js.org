@@ -8,11 +8,11 @@ export default defineConfig({
     logo: 'https://sequelize.org/img/logo.svg',
     prefersColor: { default: 'auto' },
     socialLinks: {
-      github: 'https://github.com/zizhuspot/sequelize-cn',
+      github: 'https://github.com/youngjuning/sequelize-cn',
       twitter: 'https://twitter.com/luozhu2021'
     },
     hd: { rules: [] },
-    footer: 'Made with ❤️ by <a href="https://github.com/zizhuspot" target="_blank">紫竹翻译计划</a>'
+    footer: 'Made with ❤️ by <a href="https://github.com/youngjuning" target="_blank">紫竹</a>'
   },
   theme: {
     '@c-primary': '#3b76c3',
