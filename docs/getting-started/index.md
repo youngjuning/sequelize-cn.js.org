@@ -84,7 +84,7 @@ Sequelize 默认情况下会保持连接打开，并为所有查询使用相同�
 我们鼓励你在阅读 Sequelize 文档时在本地运行代码示例。这将帮助你学得更快。最简单的方法是使用 SQLite 方言：
 
 ```ts
-const { Sequelize, Op, Model, DataTypes } = require("sequelize");
+import { Sequelize, Op, Model, DataTypes } from "sequelize";
 const sequelize = new Sequelize("sqlite::memory:");
 
 // Code here! It works!
