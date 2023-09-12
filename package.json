@@ -14,5 +14,8 @@
   "license": "MIT",
   "devDependencies": {
     "dumi": "2.2.7"
+  },
+  "dependencies": {
+    "antd": "^5.9.0"
   }
 }
