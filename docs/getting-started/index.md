@@ -36,8 +36,7 @@ $ npm install --save oracledb # Oracle Database
 要连接到数据库，你必须创建一个 Sequelize 实例。这可以通过将连接参数单独传递给 Sequelize 构造函数或传递单个连接 URI 来完成：
 
 ```ts
-const { Sequelize } = require('sequelize');
-
+import { Sequelize } from 'sequelize';
 // Option 1: Passing a connection URI
 const sequelize = new Sequelize('sqlite::memory:') // Example for sqlite
 const sequelize = new Sequelize('postgres://user:pass@example.com:5432/dbname') // Example for postgres
