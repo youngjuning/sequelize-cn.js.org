@@ -7,6 +7,8 @@ nav:
   order: 3
 ---
 
+# 核心概念
+
 ```tsx
 /**
  * inline: true
@@ -19,7 +21,7 @@ export default () => {
   return (
     <Row gutter={[16, 16]}>
       <Col xs={24} md={24}>
-        <Card title="📄️ 模型基础" bordered={false} hoverable onClick={() => history.push("/core-concepts/model-basics")}>
+        <Card title="📄️ 模型基础" hoverable onClick={() => history.push("/core-concepts/model-basics")}>
           在本教程中，你将了解 Sequelize 中有哪些模型以及如何使用它们。
         </Card>
       </Col>
