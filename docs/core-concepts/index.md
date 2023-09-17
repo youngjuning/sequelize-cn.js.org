@@ -1,7 +1,20 @@
 ---
 title: 核心概念
 description: 在本教程中，您将学习如何设置 Sequelize 的简单设置。
-keywords: [紫竹翻译计划, Sequelize]
+keywords: [
+  紫竹翻译计划,
+  数据库,
+  事务支持,
+  关系映射,
+  Sequelize,
+  ORM,
+  Oracle,
+  Postgres,
+  MySQL,
+  MariaDB,
+  SQLite,
+  SQL Server
+]
 nav:
   title: 核心概念
   order: 3

@@ -1,7 +1,20 @@
 ---
 title: 模型基础
 description: 在本教程中，您将了解 Sequelize 中有哪些模型以及如何使用它们。
-keywords: [紫竹翻译计划, Sequelize]
+keywords: [
+  紫竹翻译计划,
+  数据库,
+  事务支持,
+  关系映射,
+  Sequelize,
+  ORM,
+  Oracle,
+  Postgres,
+  MySQL,
+  MariaDB,
+  SQLite,
+  SQL Server
+]
 nav:
   title: 核心概念
   order: 3
